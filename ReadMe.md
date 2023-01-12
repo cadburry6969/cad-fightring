@@ -15,4 +15,4 @@ This is a fightclub resource where you gain certain buffs while you are in ring 
 TriggerEvent("playerDeadTriggeredEvent")
 ```
 
-Note: I dont own the assets of boxing ring, the location was only modified us and all the credits for the model creation goes to [changer](https://www.gta5-mods.com/maps/fight-ring-add-on-sp-oiv-fivem)
+Note: I dont own the assets of boxing ring, the location was only modified by us and all the credits for the model creation goes to [changer](https://www.gta5-mods.com/maps/fight-ring-add-on-sp-oiv-fivem)
