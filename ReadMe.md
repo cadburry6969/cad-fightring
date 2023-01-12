@@ -2,6 +2,9 @@ This is a fightclub resource where you gain certain buffs while you are in ring 
 
 # Location:
 `vector3(-506.56, -1709.31, 22.7)`
+1
+# Preview:
+![fightring](https://user-images.githubusercontent.com/72443203/212089379-dda6e857-cad3-44a1-bbe8-333744f2186d.png)
 
 # Dependencies
 * qb-core ([Github](https://github.com/qbcore-framework/qb-core))
