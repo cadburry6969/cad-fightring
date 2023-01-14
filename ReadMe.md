@@ -2,7 +2,7 @@ This is a fightclub resource where you gain certain buffs while you are in ring 
 
 # Location:
 `vector3(-506.56, -1709.31, 22.7)`
-1
+
 # Preview:
 ![fightring](https://user-images.githubusercontent.com/72443203/212089379-dda6e857-cad3-44a1-bbe8-333744f2186d.png)
 
@@ -14,7 +14,7 @@ This is a fightclub resource where you gain certain buffs while you are in ring 
 
 # Install Guide
 ```lua
--- Add this in `qb-ambulanVcejob/client/dead.lua` in line 145 before `if isDead then` and after `EnableControlAction(0, 47, true)`
+-- Add this in `qb-ambulancejob/client/dead.lua` in line 145 before `if isDead then` and after `EnableControlAction(0, 47, true)`
 TriggerEvent("playerDeadTriggeredEvent")
 ```
 
